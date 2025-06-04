@@ -11,6 +11,8 @@ A simple spring boot API that checks whether a number is prime or not.
 ### Example
 
 ```http: GET http://localhost:8080/api/isprime?number=17```
+## response
+17 is a prime number.
 
 #To run this locally:
 mvn spring-boot:run
